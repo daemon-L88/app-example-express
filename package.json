@@ -1,7 +1,6 @@
 {
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Build command\"",
     "start": "nodemon index.js"
   },
   "dependencies": {
