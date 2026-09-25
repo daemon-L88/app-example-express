@@ -4,7 +4,7 @@
 
 Пример приложения [Express](https://expressjs.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо](https://timeweb-cloud-app-example-express-e1cb.twc1.net)
+:tada: [Демо](https://twc-app-example-express.twc1.net/)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
